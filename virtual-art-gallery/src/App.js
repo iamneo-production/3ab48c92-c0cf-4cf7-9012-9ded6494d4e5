@@ -14,7 +14,7 @@ import ArtistSection from './components/ArtistSection';
 function App() {
   return (
     <div className="App">
-      
+      //Comment
       <Router>
       <Navbar />
         <Routes>
