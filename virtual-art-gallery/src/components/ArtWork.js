@@ -1,6 +1,7 @@
 
 import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom';
+import "../Artwork.css";
 
 
 const ArtWork = () => {
@@ -17,7 +18,7 @@ const ArtWork = () => {
             <div className='row d-flex justify-content-center'>
                 {data.map(item => (
                     <div className="card mt-10 mb-2" style={{ width: "16rem" }}>
-                        <img src={item.image} class="card-img-top" alt={item.title} style={{ width: "100%", height: "200px" }}/>
+                        <img  src={item.image} className="card-img-top image" alt={item.title} />
                         <div class="card-body">
                             <h5 class="card-title">{item.title}</h5>
                             <h5 class="card-title">{item.artist}</h5>

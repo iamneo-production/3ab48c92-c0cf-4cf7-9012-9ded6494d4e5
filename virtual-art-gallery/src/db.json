@@ -35,6 +35,42 @@
       "image": "https://i.pinimg.com/736x/fb/8d/02/fb8d02a27214be443ec7a1f8a05b0d3a--sun-painting-sunset-paintings.jpg"
     }
   ],
+  "classical": [
+    {
+      "id": "1",
+      "title": "Sunset Landscape",
+      "artist": "John Smith",
+      "description":"This is a stunning sunset landscape painting that transports viewers to a tranquil and magical moment at the end of the day. The canvas is awash in warm tones, from the rich oranges and deep reds of the setting sun to the soft purples and blues of the darkening sky.","image": "https://tse3.mm.bing.net/th/id/OIP.Fv_t4WR_jEE3xZ4UL7NLdwAAAA?pid=ImgDet&rs=1"
+    },
+    {
+      "id": "2",
+      "title": "Sunset with Birds",
+      "artist": "Jane Doe",
+      "description": "mich aho artist lay mehnat lagli",
+      "image": "https://i.pinimg.com/736x/fb/8d/02/fb8d02a27214be443ec7a1f8a05b0d3a--sun-painting-sunset-paintings.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Sunset with Birds",
+      "artist": "Jane Doe",
+      "description": "mich aho artist lay mehnat lagli",
+      "image": "https://i.pinimg.com/736x/fb/8d/02/fb8d02a27214be443ec7a1f8a05b0d3a--sun-painting-sunset-paintings.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Sunset with Birds",
+      "artist": "Jane Doe",
+      "description": "mich aho artist lay mehnat lagli",
+      "image": "https://i.pinimg.com/736x/fb/8d/02/fb8d02a27214be443ec7a1f8a05b0d3a--sun-painting-sunset-paintings.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Sunset with Birds",
+      "artist": "Jane Doe",
+      "description": "mich aho artist lay mehnat lagli",
+      "image": "https://i.pinimg.com/736x/fb/8d/02/fb8d02a27214be443ec7a1f8a05b0d3a--sun-painting-sunset-paintings.jpg"
+    }
+  ],
   "artist": [
     {
       "id": "1",
@@ -42,5 +78,40 @@
       "artistImage": "https://th.bing.com/th/id/R.e285e42db80cc89fa3dff410edbdcbe7?rik=4PLE0ipRd%2bgj%2fw&riu=http%3a%2f%2fa.scpr.org%2fi%2f49a53fb0e2e8cc5b9c1bf6f60812c603%2f128959-full.jpg&ehk=FrtVwhOf1JCDu8LRmQh4l9%2bskhQIz9LI3psf3tU2ZUA%3d&risl=&pid=ImgRaw&r=0"
     }
   ],
-  "JaneDoe": []
+  "modernart": [
+    {
+      "id": "1",
+      "title": "Sunset Landscape",
+      "artist": "John Smith",
+      "description":"This is a stunning sunset landscape painting that transports viewers to a tranquil and magical moment at the end of the day. The canvas is awash in warm tones, from the rich oranges and deep reds of the setting sun to the soft purples and blues of the darkening sky.","image": "https://tse3.mm.bing.net/th/id/OIP.Fv_t4WR_jEE3xZ4UL7NLdwAAAA?pid=ImgDet&rs=1"
+    },
+    {
+      "id": "2",
+      "title": "Sunset with Birds",
+      "artist": "Jane Doe",
+      "description": "mich aho artist lay mehnat lagli",
+      "image": "https://i.pinimg.com/736x/fb/8d/02/fb8d02a27214be443ec7a1f8a05b0d3a--sun-painting-sunset-paintings.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Sunset with Birds",
+      "artist": "Jane Doe",
+      "description": "mich aho artist lay mehnat lagli",
+      "image": "https://i.pinimg.com/736x/fb/8d/02/fb8d02a27214be443ec7a1f8a05b0d3a--sun-painting-sunset-paintings.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Sunset with Birds",
+      "artist": "Jane Doe",
+      "description": "mich aho artist lay mehnat lagli",
+      "image": "https://i.pinimg.com/736x/fb/8d/02/fb8d02a27214be443ec7a1f8a05b0d3a--sun-painting-sunset-paintings.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Sunset with Birds",
+      "artist": "Jane Doe",
+      "description": "mich aho artist lay mehnat lagli",
+      "image": "https://i.pinimg.com/736x/fb/8d/02/fb8d02a27214be443ec7a1f8a05b0d3a--sun-painting-sunset-paintings.jpg"
+    }
+  ]
 }
