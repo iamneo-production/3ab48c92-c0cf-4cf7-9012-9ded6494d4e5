@@ -1,0 +1,49 @@
+.gallery-entrance {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+
+.gallery-entrance-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://3.bp.blogspot.com/-ojAgsG4SP-U/VPqem8yx_dI/AAAAAAAAJ4Q/8VQ3qp88mVI/s1600/abundanc.png');
+  background-size: cover;
+   /* Adjust opacity to your preference */
+}
+
+.gallery-entrance-content {
+  z-index: 1;
+}
+
+.gallery-title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.welcome-message {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.enter-button {
+  padding: 0.5rem 1.5rem;
+  font-size: 1.2rem;
+  background-color: #ff9900; /* Adjust color to your preference */
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.enter-button:hover {
+  background-color: #e67e00; /* Adjust hover color */
+}
